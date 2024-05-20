@@ -1,7 +1,7 @@
 # India's House Prices Prediction
 
 ## Preface
-This self-initiated project improves on my submitted project for the CB4247 Statistics & Computational Inference to Big Data module at NTU. After my initial project was graded, I sought my lecturer's feedback and incorporated it into this version of this project. This repository contains my project's code and report (**To be uploaded soon**) and showcases my machine learning, data analysis and pre-processing, Python, and report writing skills.
+This self-initiated project improves my submitted project for the CB4247 Statistics & Computational Inference to Big Data module at NTU. After my initial project was graded, I sought my lecturer's feedback and incorporated it into this version of this project. This repository contains my project's code and report (**To be uploaded soon**) and showcases my machine learning, data analysis, and pre-processing, Python, and report writing skills.
 
 ## Project Overview
 This self-initiated project aims to:
@@ -13,4 +13,4 @@ This self-initiated project aims to:
 - Develop the most accurate model for the chosen dataset by combining high-performing algorithms.
 
 **This file serves as a short summary of my report.**
-**My report will be uploaded into this repository soon, detailing my project's aim, background, exploratory analysis, regression, modeling, discussions, and conclusion. Thank you very much for your patience!
+My report will soon be uploaded into this repository, detailing my project's aim, background, exploratory analysis, regression, modeling, discussions, and conclusion. Thank you very much for your patience!
