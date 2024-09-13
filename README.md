@@ -16,19 +16,23 @@ This project used a dataset containing house prices in India for OLS regression 
 
 Some of the graphs below comprise the analysis I conducted in this project.
 ![image](https://github.com/user-attachments/assets/4d341c53-0774-4751-ac0d-0eda6ad2896f)
-Figure 1 Distribution graphs of `Rent`
-
+**Figure 1** Distribution graphs of `Rent`
+<br />
+<br />
 ![image](https://github.com/user-attachments/assets/c227ee70-7cbc-40f9-9aa8-3b48e2c547da)
-Figure 2 Heatmap of numerical variables' correlations
-
+**Figure 2** Heatmap of numerical variables' correlations
+<br />
+<br />
 ![image](https://github.com/user-attachments/assets/901aa966-b584-4441-8e86-86941e11ea9b)
-Figure 3 Residual analysis of the OLS regression model
-
+**Figure 3** Residual analysis of the OLS regression model
+<br />
+<br />
 ![image](https://github.com/user-attachments/assets/e682df97-83c0-4d4e-96a9-1563484496a1)
-Figure 4 Root mean squared errors of trained machine learning models
-
+**Figure 4** Root mean squared errors of trained machine learning models
+<br />
+<br />
 ![image](https://github.com/user-attachments/assets/40dc380c-2355-43e9-970c-405dfd38de98)
-Figure 5 Feature importance graph of the CatBoost model
+**Figure 5** Feature importance graph of the CatBoost model
 
 ## Conclusion
 <Coming soon>
