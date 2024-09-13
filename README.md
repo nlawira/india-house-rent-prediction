@@ -12,7 +12,26 @@ This self-initiated project aims to:
 - Identify critical variables via feature importance.
 - Develop a robust and accurate model by combining high-performing algorithms.
 
-This project used a dataset containing house prices in India for OLS regression analysis and training various machine learning models. The dataset can be found [here](https://www.kaggle.com/datasets/iamsouravbanerjee/house-rent-prediction-dataset) in Kaggle. Data pre-processing and thorough preliminary analysis were conducted before regression and training, removing outliers to reduce noise in the data and feature engineering to preserve information in the dataset. 
+This project used a dataset containing house prices in India for OLS regression analysis and training various machine learning models. The dataset can be found [here](https://www.kaggle.com/datasets/iamsouravbanerjee/house-rent-prediction-dataset) in Kaggle. Data pre-processing and thorough preliminary analysis were conducted before regression and training, removing outliers to reduce noise in the data and feature engineering to preserve information in the dataset. Afterward, OLS regression was performed on the dataset and residual analysis followed to verify the assumptions made by OLS. Next, various machine learning models were trained on the dataset. The best-performing models were selected, and feature importance analysis was done on them to determine the improvement of the model. Finally, the top-performing models were combined to perform a final test against the dataset for its performance.
+
+Some of the graphs below comprise the analysis I conducted in this project.
+![image](https://github.com/user-attachments/assets/4d341c53-0774-4751-ac0d-0eda6ad2896f)
+Figure 1 Distribution graphs of `Rent`
+
+![image](https://github.com/user-attachments/assets/c227ee70-7cbc-40f9-9aa8-3b48e2c547da)
+Figure 2 Heatmap of numerical variables' correlations
+
+![image](https://github.com/user-attachments/assets/901aa966-b584-4441-8e86-86941e11ea9b)
+Figure 3 Residual analysis of the OLS regression model
+
+![image](https://github.com/user-attachments/assets/e682df97-83c0-4d4e-96a9-1563484496a1)
+Figure 4 Root mean squared errors of trained machine learning models
+
+![image](https://github.com/user-attachments/assets/40dc380c-2355-43e9-970c-405dfd38de98)
+Figure 5 Feature importance graph of the CatBoost model
+
+## Conclusion
+<Coming soon>
 
 ## License
 Protected under the MIT License. See `LICENSE` for more information.
