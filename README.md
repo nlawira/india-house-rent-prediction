@@ -35,7 +35,7 @@ Some of the graphs below comprise the analysis I conducted in this project.
 **Figure 5** Feature importance graph of the CatBoost model
 
 ## Conclusion
-<Coming soon>
+The OLS regression analysis reveals that a OLS linear model does not fit the dataset well, with a R<sup>2</sup> value of 56.06% and RMSE of 3.54×10<sup>4</sup>. This is because preliminary and residual analysis reveals that the dataset exhibits non-linearity and existance of outliers. Regarding the machine learning models, CatBoost, Gradient Boosting, LightGBM, Random Forest, and XGBoost regressors performed the best amongst the others, exhibiting high R<sup>2</sup> values and low errors. However, the feature importance analysis conducted on these models revealed that feature selection did not improve the performance of the model. This conclusion was furhter validated by decreasing R<sup>2</sup> adjusted values before and after feature selection. Nonetheless, these five models were combined and tested on the original data, yielding a decently good result with an R<sup>2</sup> value of 77.54% and RMSe of 2.53×10<sup>4</sup>. Afterward, recommendations were suggested for future projects to improve the performance of machine learning models trained on this dataset.
 
 ## License
 Protected under the MIT License. See `LICENSE` for more information.
